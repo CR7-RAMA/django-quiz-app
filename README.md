@@ -7,7 +7,6 @@ A simple Django-based quiz application where users can:
 3) View the results, including correct answers, incorrect answers, and score percentage.
 4) Restart the quiz after completing it.
 <br>
-<br>
 <b>Setup Instructions</b>
 <br>
 <b>Prerequisites</b>
