@@ -1,4 +1,4 @@
-<h1> Django Quiz App </h1>
+<b> Django Quiz App <b>
 <br>
 <br>
 A simple Django-based quiz application where users can:
@@ -8,10 +8,10 @@ A simple Django-based quiz application where users can:
 4) Restart the quiz after completing it.
 <br>
 <br>
-<h1>Setup Instructions</h1>
-<h2>Prerequisites</h2>
+<b>Setup Instructions<b>
+<b>Prerequisites<b>
 1) Python
 2) Django
 <br>
-<h2>Steps</h2>
+<b>Steps<b>
 
