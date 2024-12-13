@@ -11,6 +11,7 @@ A simple Django-based quiz application where users can:
 <b>Setup Instructions</b>
 <br>
 <b>Prerequisites</b>
+<br>
 1) Python
 2) Django
 <br>
