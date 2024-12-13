@@ -1,4 +1,4 @@
-Django Quiz App
+<b> Django Quiz App <b>
 A simple Django-based quiz application where users can:
 
 Start a new quiz session.
