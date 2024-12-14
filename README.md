@@ -14,5 +14,5 @@ A simple Django-based quiz application where users can:
 1) Python
 2) Django
 <br>
-<b>Steps</b>
+
 
