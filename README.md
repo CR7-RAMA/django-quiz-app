@@ -55,3 +55,7 @@ A simple Django-based quiz application where users can:
    python manage.py runserver
 
 ---
+
+## UI Screenshots
+![image](https://github.com/user-attachments/assets/e34c42b1-0b75-4995-bb99-a480df2fc9ab)
+
