@@ -58,4 +58,6 @@ A simple Django-based quiz application where users can:
 
 ## UI Screenshots
 ![image](https://github.com/user-attachments/assets/e34c42b1-0b75-4995-bb99-a480df2fc9ab)
+![image](https://github.com/user-attachments/assets/1e171fda-2d88-4a6a-8e54-850ba6a28a77)
+
 
