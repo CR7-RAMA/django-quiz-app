@@ -19,15 +19,28 @@ A simple Django-based quiz application where users can:
 
 ### Steps
 1. Clone the repository:
-   git clone <repository-url>
-2. Install Django:
-   pip install django
-3. Navigate to the `quiz_app` folder:
+   git clone 'repo_url'
+
+2. Navigate to the project folder:
    cd quiz_app
-4. Set up the database:
-   python manage.py makemigrations,
+
+3. Create a virtual environment:
+   python -m venv venv
+
+4. Activate the virtual environment:
+     .\venv\Scripts\activate
+
+5. Install Django:
+   pip install django
+
+6. Navigate to the `quiz_app` folder:
+   cd quiz_app
+
+7. Set up the database:
+   python manage.py makemigrations
    python manage.py migrate
-5. Add quiz questions:
+
+8. Add quiz questions:
    - Open the Django shell:
      python manage.py shell
    - Execute the following commands to add questions:
@@ -37,7 +50,8 @@ A simple Django-based quiz application where users can:
          Question(text="What is the capital of France?", option_a="Paris", option_b="London", option_c="Berlin", option_d="Madrid", correct_option="A"),
          # Add more questions here
      ])
-6. Run the project:
+
+9. Run the project:
    python manage.py runserver
 
 ---
