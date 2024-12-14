@@ -33,8 +33,8 @@ A simple Django-based quiz application where users can:
 5. Install Django:
    pip install django
 
-6. Navigate to the `quiz_app` folder:
-   cd quiz_app
+6. Navigate to the `quiz_project` folder:
+   cd quiz_project
 
 7. Set up the database:
    python manage.py makemigrations
