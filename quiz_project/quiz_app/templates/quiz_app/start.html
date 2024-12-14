@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Welcome to the Quiz!</h1>
+<p>Test your knowledge with 3 exciting questions. Click below to begin!</p>
+<a href="{% url 'quiz_app:start' %}" class="btn">Start Quiz</a>
+{% endblock %}
