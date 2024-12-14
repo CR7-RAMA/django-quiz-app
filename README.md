@@ -25,7 +25,7 @@ A simple Django-based quiz application where users can:
 3. Navigate to the `quiz_app` folder:
    cd quiz_app
 4. Set up the database:
-   python manage.py makemigrations
+   python manage.py makemigrations,
    python manage.py migrate
 5. Add quiz questions:
    - Open the Django shell:
