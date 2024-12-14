@@ -9,7 +9,7 @@ A simple Django-based quiz application where users can:
 <br>
 <b>Setup Instructions</b>
 <br>
-<b>Prerequisites</b>
+<b>Prerequisites:</b>
 <br>
 1) Python
 2) Django
